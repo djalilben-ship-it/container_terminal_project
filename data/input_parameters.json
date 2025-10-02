@@ -1,0 +1,17 @@
+{
+  "annual_capacity": 500000,
+  "crane_productivity": 30,
+  "hours_per_year": 2250,
+  "ratio_40_20": 1.5,
+  "current_cranes": 2,
+  "daily_demand": 6000,
+  "truck_speed": 25,
+  "truck_distance": 73,
+  "truck_loading_time": 45,
+  "truck_unloading_time": 45,
+  "truck_availability": 0.85,
+  "truck_shifts": 3,
+  "shift_hours": 6,
+  "current_trucks": 10
+}
+
