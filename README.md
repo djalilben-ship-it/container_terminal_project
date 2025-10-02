@@ -242,6 +242,33 @@ N_{\text{cranes}} = \frac{500,000}{30 \times 2250 \times 1.5} \approx 5
 
 ---
 
+# Container Terminal Optimization Project
+
+This project focuses on the optimization of container flows at a new terminal within EPO, including
+equipment calculation, yard allocation, and process modeling.
+
+---
+
+## 📊 Dashboard & Visualization
+
+### Equipment Requirement Dashboard
+![Dashboard Screenshot](images/dashbord.png)
+
+*Interactive Streamlit dashboard showing required quay cranes and trucks vs current capacity.*
+
+---
+
+### Bar Chart Comparison
+![Visualization](images/equipment_comparison.png)
+
+*Matplotlib chart comparing **current vs required** quay cranes and trucks.*
+
+---
+
+## 📝 Usage
+- Run the calculation script:
+  ```bash
+  python src/main.py
 
 
 
